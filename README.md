@@ -3,9 +3,10 @@ DISCORD: Zweaf#9916
 
 Growtopia enet proxy that allows modification and viewing of packets, as well as the creation of new ones.
 
+## This public version does not represent my final work, i do not take any responsibility if your account get hacked while using public version!
 ## How to use
 1. Install Termux from F-Droid.
-2. Run the command `$ bash build.sh`.
+2. Run the command `$ bash install.sh`.
 3. Launch the proxy using `./flux`.
 
 ## Flux Proxy Features
